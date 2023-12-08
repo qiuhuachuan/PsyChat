@@ -1,5 +1,9 @@
 # PsyChat: A Client-Centric Dialogue System for Mental Health Support
 
+## Paper
+
+<a href="https://arxiv.org/abs/2312.04262" target="_blank">Link</a>
+
 ## Code and Model are Coming soon.
 
 ## Chatting Interface
