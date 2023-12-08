@@ -12,7 +12,14 @@
 Citation 📚
 If you find our research paper valuable and wish to cite it, please use the following BibTeX entry:
 ```bibtex
-
+@misc{qiu2023psychat,
+      title={PsyChat: A Client-Centric Dialogue System for Mental Health Support}, 
+      author={Huachuan Qiu and Anqi Li and Lizhi Ma and Zhenzhong Lan},
+      year={2023},
+      eprint={2312.04262},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
 ## 免责声明
