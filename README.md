@@ -2,7 +2,7 @@
 
 ## Paper
 
-<a href="https://arxiv.org/abs/2312.04262" target="_blank">Link</a>
+<a href="https://arxiv.org/abs/2312.04262" target="_blank">ArXiv</a>
 
 ## Code and Model are Coming soon.
 
@@ -13,7 +13,7 @@
 - Xinling, see https://github.com/dll-wu/Client-Reactions
 - SmileChat, see https://github.com/qiuhuachuan/smile
 
-Citation 📚
+## Citation 📚
 If you find our research paper valuable and wish to cite it, please use the following BibTeX entry:
 ```bibtex
 @misc{qiu2023psychat,
@@ -25,6 +25,10 @@ If you find our research paper valuable and wish to cite it, please use the foll
       primaryClass={cs.CL}
 }
 ```
+## Acknowledgement
+
+We sincerely thank counselors **Lizhi Ma**, **Wenjun Luo**, and **Wu Chen** for their patience in human evaluation.
+
 
 ## 免责声明
 我们的心理健康支持对话机器人（以下简称"机器人"）旨在为用户提供情感支持和心理健康建议。然而，机器人不是医疗保健专业人员，不能替代医生、心理医生或其他专业人士的意见、诊断、建议或治疗。
