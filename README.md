@@ -1,38 +1,35 @@
 # PsyChat: A Client-Centric Dialogue System for Mental Health Support
 
-## Paper
+🎉🎉🎉 Accepted to CSCWD 2024 (27th International Conference on Computer Supported Cooperative Work in Design) **(CCF-C)**
 
-<a href="https://arxiv.org/abs/2312.04262" target="_blank">ArXiv</a>
+For more details, see paper: <a href='https://arxiv.org/abs/2312.04262'><img src='https://img.shields.io/badge/ArXiv-Paper-red'></a>
 
-## Code and Model are Coming soon.
-
-## Chatting Interface
-
-
-## Datsets
+## Datsets Used in This Paper
 
 - SmileChat, see https://github.com/qiuhuachuan/smile
 - Xinling, see https://github.com/dll-wu/Client-Reactions
 
-
 ## Citation 📚
+
 If you find our research paper valuable and wish to cite it, please use the following BibTeX entry:
+
 ```bibtex
-@misc{qiu2023psychat,
-      title={PsyChat: A Client-Centric Dialogue System for Mental Health Support}, 
+@misc{qiu2024psychat,
+      title={PsyChat: A Client-Centric Dialogue System for Mental Health Support},
       author={Huachuan Qiu and Anqi Li and Lizhi Ma and Zhenzhong Lan},
-      year={2023},
+      year={2024},
       eprint={2312.04262},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
 ```
+
 ## Acknowledgement
 
 We sincerely thank counselors **Lizhi Ma**, **Wenjun Luo**, and **Wu Chen** for their contributions in the section of human evaluation.
 
-
 ## 免责声明
+
 我们的心理健康支持对话机器人（以下简称"机器人"）旨在为用户提供情感支持和心理健康建议。然而，机器人不是医疗保健专业人员，不能替代医生、心理医生或其他专业人士的意见、诊断、建议或治疗。
 
 机器人提供的建议和信息是基于算法和机器学习技术，可能并不适用于所有用户或所有情况。因此，我们建议用户在使用机器人之前咨询医生或其他专业人员，了解是否适合使用此服务。
