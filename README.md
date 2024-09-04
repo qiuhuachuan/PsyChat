@@ -61,10 +61,6 @@ while True:
 
 ```
 
-## Datsets Used in This Paper
-
-- SmileChat, see https://github.com/qiuhuachuan/smile
-- Xinling, see https://github.com/dll-wu/Client-Reactions
 
 ## Citation 📚
 
@@ -80,10 +76,6 @@ If you find our research paper valuable and wish to cite it, please use the foll
       primaryClass={cs.CL}
 }
 ```
-
-## Acknowledgement
-
-We sincerely thank counselors **Lizhi Ma**, **Wenjun Luo**, and **Wu Chen** for their contributions in the section of human evaluation.
 
 ## 免责声明
 
